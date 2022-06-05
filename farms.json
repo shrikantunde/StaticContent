@@ -1,7 +1,39 @@
 [
    {
       "author":"Shrikant Unde",
-      "days":"Shrikant Unde",
+      "days":"1",
+      "activity":"Plantation",
+      "readTime":"10",
+      "heading":"Tomato",
+      "description":"10 Men - 10 te 5 "
+   },
+   {
+      "author":"Shrikant Unde",
+      "days":"2",
+      "activity":"Drinching",
+      "readTime":"10",
+      "heading":"Humic+N21+Tagron",
+      "description":"Humic-10ml/lit + N21-1 kg - 200lit"
+   },
+   {
+      "author":"Shrikant Unde",
+      "days":"5",
+      "activity":"Water Supply",
+      "readTime":"10",
+      "heading":"Plantation by Team",
+      "description":"10 Men - 10 te 5 "
+   },
+   {
+      "author":"Shrikant Unde",
+      "days":"7",
+      "activity":"Drinching",
+      "readTime":"10",
+      "heading":"19 19 19 + Magnesium Sulphate",
+      "description":"1.5 kg each"
+   },
+   {
+      "author":"Shrikant Unde",
+      "days":"10",
       "activity":"Plantation",
       "readTime":"10",
       "heading":"Plantation by Team",
@@ -9,7 +41,7 @@
    },
    {
       "author":"Shrikant Unde",
-      "days":"Shrikant Unde",
+      "days":"12",
       "activity":"Plantation",
       "readTime":"10",
       "heading":"Plantation by Team",
@@ -17,46 +49,14 @@
    },
    {
       "author":"Shrikant Unde",
-      "days":"Shrikant Unde",
+      "days":"15",
       "activity":"Plantation",
       "readTime":"10",
       "heading":"Plantation by Team",
       "description":"10 Men - 10 te 5 "
    },
    {
-      "author":"Shrikant Unde",
-      "days":"Shrikant Unde",
-      "activity":"Plantation",
-      "readTime":"10",
-      "heading":"Plantation by Team",
-      "description":"10 Men - 10 te 5 "
-   },
-   {
-      "author":"Shrikant Unde",
-      "days":"Shrikant Unde",
-      "activity":"Plantation",
-      "readTime":"10",
-      "heading":"Plantation by Team",
-      "description":"10 Men - 10 te 5 "
-   },
-   {
-      "author":"Shrikant Unde",
-      "days":"Shrikant Unde",
-      "activity":"Plantation",
-      "readTime":"10",
-      "heading":"Plantation by Team",
-      "description":"10 Men - 10 te 5 "
-   },
-   {
-      "author":"Shrikant Unde",
-      "days":"Shrikant Unde",
-      "activity":"Plantation",
-      "readTime":"10",
-      "heading":"Plantation by Team",
-      "description":"10 Men - 10 te 5 "
-   },
-   {
-      "author":"Shrikant Unde",
+      "author":"18",
       "days":"Shrikant Unde",
       "activity":"Plantation",
       "readTime":"10",
