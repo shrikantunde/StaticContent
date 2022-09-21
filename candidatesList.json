@@ -2,71 +2,85 @@
   {
     "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb28ba",
     "title": "Shrikant Unde",
-    "skills": "React, Javascript, HTML, CSS"
+    "skills": "React, Javascript, HTML, CSS",
+    "position": "Fullstack Developer"
   },
   {
     "id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f63",
     "title": "sonal Unde",
-    "skills": "Java"
+    "skills": "Java",
+     "position": "Sr Fullstack Developer"
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d72",
     "title": "Omkar ",
-    "skills": "SQL"
+    "skills": "SQL",
+     "position": "Database Developer"
   },
   {
     "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb2875",
     "title": "Tejas ",
-    "skills": "python"
+    "skills": "python",
+     "position": "Fullstack Developer"
   },
   {
     "id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f76",
     "title": "Sameer",
-    "skills": "database"
+    "skills": "database",
+    "position": "Database Developer"
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d78",
     "title": "sudhir",
-    "skills": "android"
+    "skills": "android",
+     "position": "Mobile Developer"
   },
   {
     "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb2879",
     "title": "Mahesh",
-    "skills": "testing"
+    "skills": "testing",
+     "position": "QA Engineer"
   },
   {
     "id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f80",
     "title": "Omsai",
-    "skills": "iphone, xcode"
+    "skills": "iphone, xcode",
+     "position": "Mobile Developer"
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d81",
     "title": "Mohit",
-    "skills": "fullstack"
+    "skills": "fullstack",
+     "position": "Fullstack Developer"
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d82",
     "title": "Ranjana",
-    "skills": "farming"
+    "skills": "farming",
+     "position": "Farm Manager"
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d84",
     "title": "Gaurav",
-    "skills": "Tech"
+    "skills": "Tech",
+     "position": "Tech Leader"
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d89",
     "title": "Machindra",
-    "skills": "Farming Manager"
+    "skills": "Farming Manager",
+     "position": "Manager"
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d854",
     "title": "Sathish",
-    "skills": "Manager"
+    "skills": "People Management, Project Management",
+     "position": "Manager"
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d8512",
     "title": "Roopa",
-    "skills": "Sr Manager"
+    "skills": "People Management, Project Management",
+     "position": "Sr Manager"
   }
 ]
