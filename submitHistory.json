@@ -8,7 +8,8 @@
     "isVIP": true,
     "interviewDate": "",
     "submittedDate": "12/10/2022",
-    "clientName": "Google"
+    "clientName": "Google",
+    "billRate": 200
   },
   {
     "id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f63",
@@ -19,7 +20,8 @@
     "isVIP": true,
     "interviewDate": "30/09/2022 10AM IST",
     "submittedDate": "12/10/2022",
-    "clientName": "Google"
+    "clientName": "Google",
+    "billRate": 120
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d72",
@@ -30,7 +32,8 @@
     "isVIP": false,
     "interviewDate": "30/09/2022 10AM IST",
     "submittedDate": "12/10/2022",
-    "clientName": "Google"
+    "clientName": "Google",
+    "billRate": 100
   },
   {
     "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb2875",
@@ -41,7 +44,8 @@
     "isVIP": false,
     "interviewDate": "",
     "submittedDate": "12/10/2022",
-    "clientName": "Google"
+    "clientName": "Google",
+    "billRate": 80
   },
   {
     "id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f76",
@@ -52,7 +56,8 @@
     "isVIP": true,
     "interviewDate": "05/10/2022 11AM IST",
     "submittedDate": "12/10/2022",
-    "clientName": "Google"
+    "clientName": "Google",
+    "billRate": 120
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d78",
@@ -63,7 +68,8 @@
     "isVIP": false,
     "interviewDate": "",
     "submittedDate": "12/10/2022",
-    "clientName": "Google"
+    "clientName": "Google",
+    "billRate": 300
   },
   {
     "id": "bd7acbea-c1b1-46c2-aed5-3ad53abb2879",
@@ -74,7 +80,8 @@
     "isVIP": true,
     "interviewDate": "",
     "submittedDate": "12/10/2022",
-    "clientName": "Google"
+    "clientName": "Google",
+    "billRate": 120
   },
   {
     "id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f80",
@@ -85,7 +92,8 @@
     "isVIP": true,
     "interviewDate": "10/10/2022 03PM IST",
     "submittedDate": "12/10/2022",
-    "clientName": "Google"
+    "clientName": "Google",
+    "billRate": 120
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d81",
@@ -96,7 +104,8 @@
     "isVIP": true,
     "interviewDate": "30/09/2022 10AM IST",
     "submittedDate": "12/10/2022",
-    "clientName": "Google"
+    "clientName": "Google",
+    "billRate": 130
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d82",
@@ -107,7 +116,8 @@
     "isVIP": true,
     "interviewDate": "30/09/2022 10AM IST",
     "submittedDate": "12/10/2022",
-    "clientName": "Google"
+    "clientName": "Google",
+    "billRate": 150
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d84",
@@ -118,7 +128,8 @@
     "isVIP": true,
     "interviewDate": "30/09/2022 10AM IST",
     "submittedDate": "12/10/2022",
-    "clientName": "Google"
+    "clientName": "Google",
+    "billRate": 120
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d89",
@@ -128,7 +139,8 @@
     "status": "Shortlisted",
     "isVIP": true,
     "interviewDate": "30/09/2022 10AM IST",
-    "clientName": "Google"
+    "clientName": "Google",
+    "billRate": 160
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d854",
@@ -139,7 +151,8 @@
     "isVIP": true,
     "interviewDate": "30/09/2022 10AM IST",
     "submittedDate": "12/10/2022",
-    "clientName": "Google"
+    "clientName": "Google",
+    "billRate": 200
   },
   {
     "id": "58694a0f-3da1-471f-bd96-145571e29d8512",
@@ -150,6 +163,7 @@
     "isVIP": true,
     "interviewDate": "30/09/2022 10AM IST",
     "submittedDate": "12/10/2022",
-    "clientName": "Google"
+    "clientName": "Google",
+    "billRate": 250
   }
 ]
