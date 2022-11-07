@@ -6,7 +6,7 @@
     "position": "Fullstack Developer",
     "status": "Shortlisted",
     "isVIP": true,
-    "interviewDate": new Date(Date.now() + 4 * 24 * 60 * 60 * 1000).toLocaleString()
+    "interviewDate": 'new Date(Date.now() + 4 * 24 * 60 * 60 * 1000).toLocaleString()'
   },
   {
     "id": "3ac68afc-c605-48d3-a4f8-fbd91aa97f63",
