@@ -1,0 +1,52 @@
+export const InterviewList2 = [
+    {
+      id: 1,
+      title: 'Shrikant Unde',
+      position: 'Full Stack Developer',
+      skills: ['React', 'Angular', 'Node', 'MongoDB'],
+      rate: '$135.00hr',
+      interviewDate: new Date(Date.now() + 4 * 24 * 60 * 60 * 1000).toLocaleString(),
+    },
+    {
+      id: 2,
+      title: 'Sonal Unde',
+      position: 'Data Scientist',
+      skills: ['Snow Flake', 'Python', 'Casandra', 'AI / ML', 'CoughDB'],
+      rate: '$200.00hr',
+      interviewDate: new Date(Date.now() + 5 * 24 * 60 * 60 * 1000).toLocaleString(),
+    },
+    {
+      id: 3,
+      title: 'Macchindra',
+      position: 'DotNet Developer',
+      skills: ['C#', 'ASP.net', '.net MVC', 'SQL'],
+      rate: '$80.00hr',
+      availability: '10 Days',
+      interviewDate: new Date(Date.now() + 5 * 24 * 60 * 60 * 1000).toLocaleString(),
+    },
+    {
+      id: 4,
+      title: 'Sam Unde',
+      position: 'Java Developer',
+      skills: ['Java', 'SQL EXpress', 'SOAP', 'SpringBoot'],
+      rate: '$120.00hr',
+      interviewDate: new Date(Date.now() + 6 * 24 * 60 * 60 * 1000).toLocaleString(),
+    },
+    {
+      id: 5,
+      title: 'Mahesh Kumar',
+      position: 'Full Stack Developer',
+      skills: ['React', 'Angular', 'Java', 'SpringBoot'],
+      rate: '$150.00hr',
+      interviewDate: new Date(Date.now() + 6 * 24 * 60 * 60 * 1000).toLocaleString(),
+    },
+    {
+      id: 6,
+      title: 'Som Pe',
+      position: 'Full Stack Developer',
+      skills: ['React', 'Angular', 'C#', 'ASP.net', '.net MVC'],
+      rate: '$180.00hr',
+      interviewDate: new Date(Date.now() + 7 * 24 * 60 * 60 * 1000).toLocaleString(),
+    },
+  ];
+  
