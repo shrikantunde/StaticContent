@@ -1,0 +1,16 @@
+{
+  candidateId:'58694a0f-3da1-471f-bd96-145571e29d72',
+  candidateName:'Shrikant Unde',
+  candidateExperience:'10years',
+  experienceHistory:[{companyName:'Randstad',designation:'full stack developer', from:'10-June-2022' to:'Till date'}, {companyName:'UBS',from:'10-June-2022' to:'Till date'},{companyName:'Harman',from:'10-June-2022' to:'Till date'}],
+  title:'Full Stack Developer',
+  skills:["HTML","CSS","Javascript","React","Redux","Micro UI","Architecture"],
+  description:"Full stack developer having mor ethan 10 + years experienc ein software development",
+  billRate:'100$',
+  availability:'45days',
+  candidateType:'VIP',
+  visaStatus:'no',
+  currentLocation:'pune'
+  nationality:'India',
+  recruiter:'Jimmy'
+}
